@@ -56,6 +56,7 @@ By the end of this lab, you will have a solid understanding of functions and be 
 - Fork this repo
 - Clone it to your machine
 
+
 ## Getting Started
 
 Complete the challenges in the notebook. Follow the instructions and add your code and explanations as necessary.
@@ -70,7 +71,7 @@ git commit -m "Solved lab"
 git push origin master
 ```
 
-- Create a Pull Request so that your TAs can check your work.
+- Paste the link of your lab in Student Portal.
 
 
 ## FAQs
